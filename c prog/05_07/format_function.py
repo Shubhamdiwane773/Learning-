@@ -1,0 +1,6 @@
+txt1="my name is {fname}, I am {age} years old".format(fname="shubham",age=24)
+print(txt1)
+txt2="my name is {0} I am {1} years old".format("asiq",25)
+print(txt2)
+txt3="my name is {} I am {} years old".format("sai",23)
+print(txt3)
